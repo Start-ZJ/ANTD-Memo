@@ -13,5 +13,6 @@
         "parser": "json"
       }
     }
-  ]
+  ],
+  "//":".prettierrc（或其变体如.prettierrc.js、.prettierrc.json等）是Prettier代码格式化工具的配置文件。"
 }
