@@ -39,3 +39,4 @@ describe('antd dist files', () => {
     });
   }
 });
+/* 比较版本号是否正确 */
